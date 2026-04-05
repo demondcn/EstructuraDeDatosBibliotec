@@ -4,13 +4,13 @@
 
 **Asignatura:** Estructura de Datos
 
-**Estudiante:** [Completar]
+**Estudiante:** [Cristian Stiven Guerrero Andrade]
 
-**Docente:** [Completar]
+**Docente:** [Jorje Ruis]
 
-**Institucion:** [Completar]
+**Institucion:** [Iberoamericana]
 
-**Fecha:** [Completar]
+**Fecha:** [4/5/2026]
 
 ## Introduccion
 
